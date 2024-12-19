@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_padding">7dp</dimen>
+    <dimen name="small_text">17dp</dimen>
+    <dimen name="mid_text">20dp</dimen>
+    <dimen name="max_text">70sp</dimen>
+    <dimen name="min_margin">7dp</dimen>
+    <dimen name="btn_margin">10dp</dimen>
+</resources>
